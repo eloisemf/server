@@ -1,0 +1,24 @@
+{
+    "movie": [
+        {
+            "id": 1,
+            "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+            "year": "2022",
+            "time": "139",
+            "review": "Bom demais, coloca o multiverso da marvel pra m*"
+        },
+        {
+            "id": 2,
+            "title": "Bacurau",
+            "year": "2019",
+            "time": "130",
+            "review": "Bom, poetic cinema."
+        },
+        {
+            "id": 3,
+            "title": "Doutor Estranho no Multiverso da Loucura",
+            "year": "2022",
+            "time": "126",
+            "review": "Cinema was a mistake"}
+    ]
+}

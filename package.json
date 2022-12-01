@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "server",
+  "description": "server",
+  "main": "server",
+  "repository": "sim",
+  "author": "sim",
+  "license": "sim",
+  "private": null
+}
